@@ -12,16 +12,6 @@ int main()
 
     for(i=1; i<=n; i++)
     {
-        for(j=1; j<=space; j++)
-        {
-            cout<<" ";
-        }
-        space--;
-        
-        for(j=1; j<=i; j++)
-        {
-            cout<<i<<" ";
-        }
 
         cout<<endl;
     }
